@@ -1,0 +1,1 @@
+[{"name":"Cabrio","val":469},{"name":"Roadster","val":468},{"name":"Ostatní","val":470}]

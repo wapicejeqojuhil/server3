@@ -1,0 +1,1 @@
+[{"name":"3200","val":1402},{"name":"Coupe","val":1403},{"name":"Ghibli","val":942},{"name":"GranCabrio","val":6831},{"name":"GranTurismo","val":6829},{"name":"Levante","val":7473},{"name":"Quattroporte","val":943},{"name":"Ostatní","val":944}]

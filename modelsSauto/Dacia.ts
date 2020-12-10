@@ -1,0 +1,1 @@
+[{"name":"1300","val":104},{"name":"1310","val":102},{"name":"1410","val":103},{"name":"Dokker","val":6578},{"name":"Double","val":105},{"name":"Duster","val":5751},{"name":"Lodgy","val":6385},{"name":"Logan","val":1097},{"name":"Pick Up","val":1164},{"name":"Sandero","val":1604},{"name":"Solenza","val":1165},{"name":"Ostatní","val":106}]

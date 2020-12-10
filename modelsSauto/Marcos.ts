@@ -1,0 +1,1 @@
+[{"name":"GTS","val":836},{"name":"LM","val":834},{"name":"Mantara","val":832},{"name":"Mantaray","val":835},{"name":"Mantis","val":833},{"name":"Ostatní","val":837}]

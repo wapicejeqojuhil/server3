@@ -1,0 +1,1 @@
+[{"name":"ADR","val":6821},{"name":"Ostatní","val":6819}]

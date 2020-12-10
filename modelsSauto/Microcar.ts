@@ -1,0 +1,1 @@
+[{"name":"DUE","val":7258},{"name":"Lyra","val":6195},{"name":"M:GO","val":7256},{"name":"MC1","val":6197},{"name":"MC2","val":6199},{"name":"MGO","val":6201},{"name":"Virgo","val":6203},{"name":"Ostatní","val":6193}]

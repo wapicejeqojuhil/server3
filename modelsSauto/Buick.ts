@@ -1,0 +1,1 @@
+[{"name":"Century","val":56},{"name":"Electra","val":61},{"name":"Enclave","val":5250},{"name":"LaCrosse","val":5248},{"name":"LeSabre","val":57},{"name":"Park Avenue","val":55},{"name":"Rainer","val":1156},{"name":"Rainier","val":1447},{"name":"Randezvous","val":1157},{"name":"Regal","val":58},{"name":"Riviera","val":59},{"name":"Skylark","val":60},{"name":"Ostatní","val":62}]

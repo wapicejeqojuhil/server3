@@ -1,0 +1,1 @@
+[{"name":"Aventador","val":6594},{"name":"Countach","val":7698},{"name":"Gallardo","val":937},{"name":"Huracán","val":7694},{"name":"Miura","val":7696},{"name":"Murciélago","val":6596},{"name":"Urus","val":7813},{"name":"Ostatní","val":938}]

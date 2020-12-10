@@ -1,0 +1,1 @@
+[{"name":"Electric Drive","val":8386},{"name":"Forfour","val":1191},{"name":"Fortwo","val":1190},{"name":"Micro compact","val":6980},{"name":"Roadster","val":1637},{"name":"Ostatní","val":1312}]

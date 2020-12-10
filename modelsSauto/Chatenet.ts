@@ -1,0 +1,1 @@
+[{"name":"Barooder","val":6223},{"name":"CH26","val":6219},{"name":"Media","val":6221},{"name":"Speedino","val":6227},{"name":"Stella","val":6225},{"name":"Ostatní","val":6217}]

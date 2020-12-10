@@ -1,0 +1,1 @@
+[{"name":"F","val":1385},{"name":"TF","val":1386},{"name":"ZR","val":1387},{"name":"ZS","val":1388},{"name":"ZT","val":1389},{"name":"Ostatní","val":950}]

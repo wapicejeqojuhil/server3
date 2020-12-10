@@ -1,0 +1,1 @@
+[{"name":"GS2","val":5199},{"name":"GX6","val":5195},{"name":"Ostatní","val":5193}]

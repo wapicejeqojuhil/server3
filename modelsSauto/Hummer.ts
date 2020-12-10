@@ -1,0 +1,1 @@
+[{"name":"H1","val":1569},{"name":"H1 Alpha","val":5909},{"name":"H2","val":1570},{"name":"H2 SUT","val":5907},{"name":"H3","val":1572},{"name":"H3 Alpha","val":5911},{"name":"H3T","val":5905},{"name":"H3x","val":5913},{"name":"Ostatní","val":1571}]

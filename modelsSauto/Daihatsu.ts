@@ -1,0 +1,1 @@
+[{"name":"Applause","val":125},{"name":"Copen","val":1413},{"name":"Cuore","val":123},{"name":"Feroza","val":1449},{"name":"Grand Movie","val":126},{"name":"Charade","val":124},{"name":"Materia","val":1674},{"name":"Move","val":6036},{"name":"Rocky","val":1450},{"name":"Sirion","val":1397},{"name":"Terios","val":1451},{"name":"Trevis","val":1632},{"name":"Ostatní","val":127}]

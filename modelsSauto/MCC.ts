@@ -1,0 +1,1 @@
+[{"name":"Smart","val":945},{"name":"Ostatní","val":946}]

@@ -1,0 +1,1 @@
+[{"name":"Aztek","val":1511},{"name":"Bonneville","val":571},{"name":"Firebird","val":569},{"name":"Firefly","val":572},{"name":"G6","val":578},{"name":"Grand Am","val":573},{"name":"Grand Prix","val":574},{"name":"GTO","val":579},{"name":"Montana","val":576},{"name":"Sunfire","val":575},{"name":"Trans Sport","val":570},{"name":"Vibe","val":577},{"name":"Ostatní","val":580}]

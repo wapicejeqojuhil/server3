@@ -1,0 +1,15 @@
+{
+  "name": "autofay-server-ts",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "14.9"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}

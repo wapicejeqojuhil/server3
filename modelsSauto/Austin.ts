@@ -1,0 +1,1 @@
+[{"name":"Maestro","val":29},{"name":"Metro","val":28},{"name":"Mini","val":27},{"name":"Montego","val":30},{"name":"Ostatní","val":31}]

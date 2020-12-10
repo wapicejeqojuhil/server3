@@ -1,0 +1,1 @@
+[{"name":"Arona","val":8464},{"name":"Ateca","val":8414},{"name":"Formentor","val":8418},{"name":"Ibiza","val":8462},{"name":"Tavascan","val":8416},{"name":"Ostatní","val":8412}]

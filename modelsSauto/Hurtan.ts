@@ -1,0 +1,1 @@
+[{"name":"ALBAYCIN","val":7513},{"name":"Ostatní","val":7511}]

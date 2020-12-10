@@ -1,0 +1,1 @@
+[{"name":"125P","val":566},{"name":"126P","val":565},{"name":"650E","val":563},{"name":"FSO 1500","val":564},{"name":"Polonez","val":567},{"name":"Ostatní","val":568}]

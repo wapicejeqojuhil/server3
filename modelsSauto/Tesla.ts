@@ -1,0 +1,1 @@
+[{"name":"Model 3","val":8190},{"name":"Model S","val":6323},{"name":"Model X","val":6325},{"name":"Roadster","val":6327},{"name":"Ostatní","val":6321}]

@@ -1,0 +1,1 @@
+[{"name":"3","val":7784},{"name":"3 Crossback","val":8437},{"name":"4","val":7786},{"name":"4 Crossback","val":7788},{"name":"5","val":7790},{"name":"7 Crossback","val":8439},{"name":"Ostatní","val":7782}]

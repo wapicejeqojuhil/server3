@@ -1,0 +1,1 @@
+[{"name":"Aviator","val":1546},{"name":"Continental","val":864},{"name":"LS","val":866},{"name":"MKS","val":6308},{"name":"MKT","val":6304},{"name":"MKX","val":5917},{"name":"MKZ","val":6306},{"name":"Navigator","val":1545},{"name":"Town Car","val":865},{"name":"Ostatní","val":867}]

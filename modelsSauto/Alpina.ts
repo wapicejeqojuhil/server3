@@ -1,0 +1,1 @@
+[{"name":"B3 S","val":6362},{"name":"B5","val":6354},{"name":"B6","val":6358},{"name":"B7","val":6360},{"name":"D3","val":6352},{"name":"D5","val":6356},{"name":"Ostatní","val":6350}]
